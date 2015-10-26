@@ -1,0 +1,36 @@
+autorun.inf|42
+config_Oxoniya 360.bin|28659
+images_Oxoniya 360.zip|232773
+map\googlemap_Oxoniya 360.zip|1695
+map\multilanguage\english.zip|22
+map\multilanguage\france.zip|22
+map\multilanguage\german.zip|22
+map\multilanguage\italy.zip|22
+map\multilanguage\japanese.zip|22
+map\multilanguage\spanish.zip|22
+map\multilanguage\Oxoniya 360.html|1248
+map\multilanguage\Oxoniya_Oxoniya 360.html|2389
+map\multilanguage\resources\movieclose.swf|2695
+map\multilanguage\resources\oxoniya 360_oxoniya-builders--logo.gif|4540
+map\multilanguage\resources\swf_12.swf|1747
+map\multilanguage\resources\youtube.swf|1845
+map\multilanguage\resources\resources_Oxoniya 360.zip|41828
+map\multilanguage\resources\scene\1_1_periyar river.jpg|797475
+map\multilanguage\resources\scene\1_balcony.jpg|1029638
+map\multilanguage\resources\scene\1_bedroom.jpg|1119874
+map\multilanguage\resources\scene\1_parking.jpg|1079279
+map\multilanguage\resources\scene\corridoor.jpg|656281
+map\multilanguage\resources\scene\entrance.jpg|1054027
+map\multilanguage\resources\scene\health club.jpg|633102
+map\multilanguage\resources\scene\kitchen.jpg|816158
+map\multilanguage\resources\scene\lawn.jpg|1215777
+map\multilanguage\resources\scene\living 2.jpg|976724
+map\multilanguage\resources\scene\living room.jpg|862744
+map\multilanguage\resources\scene\lobby front.jpg|1411778
+map\multilanguage\resources\scene\lobby.jpg|576637
+map\multilanguage\resources\scene\roof top.jpg|970880
+map\multilanguage\resources\scene\swimmingpool.jpg|957094
+map\multilanguage\resources\scene\sounds\system_bgsound_scene_riviera 7th floor_rushez production  oxoniya builders tvc.mp3|244738
+map\multilanguage\resources\scene\sounds\swfobject.js|6880
+map\multilanguage\resources\scene\sounds\thumb.jpg|150742
+map\multilanguage\resources\scene\sounds\twviewer.swf|345197

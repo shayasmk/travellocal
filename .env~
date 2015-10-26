@@ -1,0 +1,11 @@
+APP_ENV=local
+APP_DEBUG=true
+APP_KEY=wJmmHnIfGpTK2YXUcb5uUl8A58ru53yI
+
+DB_HOST=localhost
+DB_DATABASE=oxoniya
+DB_USERNAME=root
+DB_PASSWORD=password
+
+CACHE_DRIVER=file
+SESSION_DRIVER=file

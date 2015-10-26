@@ -1,0 +1,45 @@
+autorun.inf|42
+config_Oxoniya 360.bin|38305
+images_Oxoniya 360.zip|232820
+map\googlemap_Oxoniya 360.zip|1695
+map\multilanguage\english.zip|22
+map\multilanguage\france.zip|22
+map\multilanguage\german.zip|22
+map\multilanguage\italy.zip|22
+map\multilanguage\japanese.zip|22
+map\multilanguage\spanish.zip|22
+map\multilanguage\Oxoniya 360.html|1248
+map\multilanguage\Oxoniya_Oxoniya 360.html|2389
+map\multilanguage\resources\movieclose.swf|2695
+map\multilanguage\resources\oxoniya 360_oxoniya-builders--logo.gif|4540
+map\multilanguage\resources\swf_40.swf|1747
+map\multilanguage\resources\youtube.swf|1845
+map\multilanguage\resources\resources_Oxoniya 360.zip|39993
+map\multilanguage\resources\scene\1_bedroom.jpg|977113
+map\multilanguage\resources\scene\1_bedroom.zip|21421
+map\multilanguage\resources\scene\1_elevators.jpg|1010224
+map\multilanguage\resources\scene\1_elevators.zip|21319
+map\multilanguage\resources\scene\1_front entrance1.jpg|1495086
+map\multilanguage\resources\scene\1_front entrance1.zip|21575
+map\multilanguage\resources\scene\1_health club.jpg|945519
+map\multilanguage\resources\scene\1_health club.zip|10714
+map\multilanguage\resources\scene\1_kitchen_1.jpg|692086
+map\multilanguage\resources\scene\1_kitchen_1.zip|10731
+map\multilanguage\resources\scene\1_paddy view_1.jpg|1481232
+map\multilanguage\resources\scene\1_paddy view_1.zip|21446
+map\multilanguage\resources\scene\2_kids zone_1.jpg|1334936
+map\multilanguage\resources\scene\2_kids zone_1.zip|10746
+map\multilanguage\resources\scene\2_lobby.jpg|961723
+map\multilanguage\resources\scene\2_lobby.zip|10642
+map\multilanguage\resources\scene\entrance.jpg|3020303
+map\multilanguage\resources\scene\entrance.zip|21302
+map\multilanguage\resources\scene\living room_1.jpg|499479
+map\multilanguage\resources\scene\living room_1.zip|10692
+map\multilanguage\resources\scene\lobby front.jpg|1048307
+map\multilanguage\resources\scene\lobby front.zip|31988
+map\multilanguage\resources\scene\top view.jpg|747835
+map\multilanguage\resources\scene\top view.zip|10724
+map\multilanguage\resources\scene\sounds\system_bgsound_scene_riviera 7th floor_rushez production  oxoniya builders tvc.mp3|244738
+map\multilanguage\resources\scene\sounds\swfobject.js|6880
+map\multilanguage\resources\scene\sounds\thumb.jpg|188454
+map\multilanguage\resources\scene\sounds\twviewer.swf|345197
